@@ -1,3 +1,3 @@
 # ci-demo
 
-Ausgebaut!
+Ausgebaut! Release 1.0.0
